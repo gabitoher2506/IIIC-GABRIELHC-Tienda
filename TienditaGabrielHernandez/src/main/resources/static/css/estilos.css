@@ -1,0 +1,144 @@
+body{
+    background-color: blue;
+    margin: 0;
+}
+#menu1{
+    background-color: green;
+    color: white;
+    text-align: left;
+    font-size: small;
+}
+#menu2{
+    background-color: green;
+    color: white;
+    text-align: left;
+    font-size: small;
+}
+
+.linea-horizontal{
+    border: none;
+    border-top: 1px solid white;
+    margin: 0px ;
+}
+
+#titulo1{
+    background-color: blue;
+    color: white;
+    text-align: left;
+    font-size: medium;
+}
+
+#titulo2{
+    background-color : black;
+    color: white;
+    text-align: center;
+    font-size: medium;
+    margin: 0;
+}
+
+#titulo3{
+    background-color : navajowhite;
+    color: black;
+    text-align: left;
+    font-size: medium;
+    margin: 0;
+}
+
+.linea-horizontal2{
+    border: none;
+    border-top: 1px solid grey;
+    margin: 0;
+}
+
+.columna-izquierda{
+    float:left;
+    width: 17%;
+    padding: 1px;
+    box-sizing: border-box;
+    border-top: 0px solid grey;
+}
+
+.columna-derecha{
+    background-color: navajowhite;
+    float:left;
+    width: 83%;
+    padding: 10px;
+    box-sizing: border-box;
+    padding-bottom: 145px;
+
+}
+
+#subtitulo1{
+    background-color : aquamarine;
+    color: black;
+    text-align: left;
+    font-size: medium;
+    margin: 0;
+}
+
+#pa1{
+    background-color : aquamarine;
+    color: black;
+    text-align: left auto;
+    font-size: medium;
+    margin: 0;
+    height: 600px;
+    padding-bottom: 265px
+}
+
+#subtitulo2{
+    background-color : navajowhite;
+    color: black;
+    text-align: left;
+    font-size: medium;
+    margin: 0;
+}
+
+#p2{
+    background-color :  navajowhite;
+    color: black;
+    text-align: left;
+    font-size: medium;
+    margin: 0;
+}
+
+.subra{
+    background-color: green;
+    color: white;
+}
+
+#pa2{
+    background-color : navajowhite;
+    color: black;
+    text-align: left auto;
+    font-size: medium;
+    margin: 0;
+    height: 50px;
+}
+
+#subtitulo3{
+    background-color : navajowhite;
+    color: black;
+    text-align: left;
+    font-size: medium;
+    margin: 0;
+}
+
+#imagen2{
+
+    background-color:  navajowhite;
+    background-size: 150%;
+    text-align: left;
+    height: 180px;
+    margin: 0;
+}
+
+#subtitulo4{
+    background-color : navajowhite;
+    color: black;
+    text-align: left;
+    font-size: medium;
+    height: 246px;
+    margin: 0;
+}
+
