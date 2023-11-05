@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      xmlns="http://www.w3.org/1999/xhtml">
+    <head th:replace="~{layout/plantilla :: head}">
+        <title>TechShop</title>        
+    </head>
+    <body>
+        <header th:replace="~{layout/plantilla :: header}"/>
+         <section class="Seccion-2">
+                <article class="bloque-izq">
+                    <div class="home">
+                        <h2>Home</h2>
+                    </div>
+                    <div>
+                        <h3>El producto más vendido</h3>
+                        <h4>Según los datos del mes pasado el
+                            <br>
+                            producto x203 fue el que registro mas ventas</h4>
+                    </div>
+                </article>
+                
+                
+                <aside class="bloque-der">
+                    
+                    <div class="der-titilo">
+                        <h2>Nuestros Productos</h2>
+                    </div>
+                    
+                    <div class="producto">
+                        <h2>X2126</h2>
+                        
+                        <div class="producto-img">
+                            <img src="https://cdn.pixabay.com/photo/2015/11/21/15/29/camera-1055066_640.jpg" alt="camara2">
+                            <img src="img/Lavadora.jpeg" alt ="Lavadora" width="100"/>
+                        </div>
+                        
+                        <div class="procuto-text">
+                            <h3>Servidor de alto perfil <u>Comprar</u></h3>
+                            <br>
+                            <h3>blablabalalablab</h3>
+                            <br>
+                            <hr>
+                        </div>                 
+                    </div>
+                    <div></div>
+                </aside>
+            </section>
+        <footer th:replace="~{layout/plantilla :: footer}"/>          
+    </body>
+</html>
