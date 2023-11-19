@@ -1,9 +1,0 @@
-Tienda_Gabriel\demo\service\CategoriaService.class
-Tienda_Gabriel\demo\domain\Categoria.class
-Tienda_Gabriel\demo\service\FirebaseStorageService.class
-Tienda_Gabriel\demo\service\ProductoService.class
-Tienda_Gabriel\demo\service\impl\FirebaseStorageServiceImpl.class
-Tienda_Gabriel\demo\domain\Producto.class
-Tienda_Gabriel\demo\dao\ProductoDao.class
-Tienda_Gabriel\demo\controller\CategoriaController.class
-Tienda_Gabriel\demo\service\impl\ProductoServiceImpl.class
